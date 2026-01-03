@@ -23,8 +23,8 @@ Hand gestures detected through a webcam are used to control different system sta
 ---
 
 ## How It Works
-1. The background is captured initially.
-2. Hand gestures are detected in real time using hand landmarks.
+1. The background is captured initially. (Run the "images.py" file to save your background first)
+2. Hand gestures are detected in real time using hand landmarks. 
 3. Specific gestures trigger state changes:
    - Cloak mode activation
    - Automatic timeout
